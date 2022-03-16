@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography.X509Certificates;
 
-namespace BT6
+namespace BT7
 {
     class Program
     {
@@ -10,7 +10,7 @@ namespace BT6
             int n;
             int[,] a;
             dulieuvao(out n, out a);
-            incp(n, a);
+            intg(n, a);
             Console.ReadKey();
         }
 
@@ -29,18 +29,19 @@ namespace BT6
             
         }
 
-        public static void incp(int n, int[,] a)
+        public static void intg(int n, int[,] a)
         {
-            int d = a.GetLength(0) - 1;
-            int c = a.GetLength(1) - 1;
-            int t = 0;
-            do
+            int j = 0;
+            for (int i = 0; i < a.GetLength(0); i++)
             {
-                Console.WriteLine(a[t, c]);
-                t++;
-                c--;
-                d--;
-            } while (d >= 0);
+                for (j ; j < a.GetLength(1); j++)
+                {
+                    Console.Write(a[i, j] + " ");
+                }
+
+                j++;
+                Console.WriteLine();
+            }
         }
     }
 }
