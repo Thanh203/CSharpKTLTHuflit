@@ -31,15 +31,18 @@ namespace BT7
 
         public static void intg(int n, int[,] a)
         {
-            int j = 0;
+            int k = 0;
             for (int i = 0; i < a.GetLength(0); i++)
             {
-                for (j ; j < a.GetLength(1); j++)
+                k = i;
+                for (int j = 0 ; j < a.GetLength(1); j++)
                 {
-                    Console.Write(a[i, j] + " ");
+                    if (k < (a.GetLength(1)))
+                    {
+                        Console.Write(a[i, k] + " ");
+                        k++;
+                    }
                 }
-
-                j++;
                 Console.WriteLine();
             }
         }
