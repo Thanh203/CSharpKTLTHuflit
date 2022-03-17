@@ -1,0 +1,15 @@
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/bin/Debug/net5.0/Week1_KTLTTH.deps.json
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/bin/Debug/net5.0/Week1_KTLTTH.runtimeconfig.json
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/bin/Debug/net5.0/Week1_KTLTTH.runtimeconfig.dev.json
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/bin/Debug/net5.0/Week1_KTLTTH.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/bin/Debug/net5.0/ref/Week1_KTLTTH.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/bin/Debug/net5.0/Week1_KTLTTH.pdb
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/obj/Debug/net5.0/Week1_KTLTTH.csproj.AssemblyReference.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/obj/Debug/net5.0/Week1_KTLTTH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/obj/Debug/net5.0/Week1_KTLTTH.AssemblyInfoInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/obj/Debug/net5.0/Week1_KTLTTH.AssemblyInfo.cs
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/obj/Debug/net5.0/Week1_KTLTTH.csproj.CoreCompileInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/obj/Debug/net5.0/Week1_KTLTTH.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/obj/Debug/net5.0/ref/Week1_KTLTTH.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/obj/Debug/net5.0/Week1_KTLTTH.pdb
+/Users/thanh/github/CsharpKTLTHuflit/Week1_KTLTTH/Week1_KTLTTH/obj/Debug/net5.0/Week1_KTLTTH.genruntimeconfig.cache
