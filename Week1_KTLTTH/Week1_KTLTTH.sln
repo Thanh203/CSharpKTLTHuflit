@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1_KTLTTH", "Week1_KTLTT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT5", "BT5\BT5.csproj", "{C24CFDF0-6583-400A-94A5-693EBB2FEF29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT6", "BT6\BT6.csproj", "{97276592-02E5-488A-8028-89681AA9746D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C24CFDF0-6583-400A-94A5-693EBB2FEF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C24CFDF0-6583-400A-94A5-693EBB2FEF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C24CFDF0-6583-400A-94A5-693EBB2FEF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97276592-02E5-488A-8028-89681AA9746D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97276592-02E5-488A-8028-89681AA9746D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97276592-02E5-488A-8028-89681AA9746D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97276592-02E5-488A-8028-89681AA9746D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
