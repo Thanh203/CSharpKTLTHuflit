@@ -50,7 +50,7 @@ namespace BT4
                 {
                     sum = sum + a[i, j];
                 }
-                double dtb = sum / (double) a.GetLength(1n);
+                double dtb = sum / (double) a.GetLength(1);
                 Console.WriteLine(dtb);
             }
         }
