@@ -1,0 +1,15 @@
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/bin/Debug/net5.0/BT2.deps.json
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/bin/Debug/net5.0/BT2.runtimeconfig.json
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/bin/Debug/net5.0/BT2.runtimeconfig.dev.json
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/bin/Debug/net5.0/BT2.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/bin/Debug/net5.0/ref/BT2.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/bin/Debug/net5.0/BT2.pdb
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/obj/Debug/net5.0/BT2.csproj.AssemblyReference.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/obj/Debug/net5.0/BT2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/obj/Debug/net5.0/BT2.AssemblyInfoInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/obj/Debug/net5.0/BT2.AssemblyInfo.cs
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/obj/Debug/net5.0/BT2.csproj.CoreCompileInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/obj/Debug/net5.0/BT2.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/obj/Debug/net5.0/ref/BT2.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/obj/Debug/net5.0/BT2.pdb
+/Users/thanh/github/CsharpKTLTHuflit/Week3Weekk_KTLTTH/BT2/obj/Debug/net5.0/BT2.genruntimeconfig.cache
