@@ -1,0 +1,15 @@
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/bin/Debug/net5.0/Slide13.deps.json
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/bin/Debug/net5.0/Slide13.runtimeconfig.json
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/bin/Debug/net5.0/Slide13.runtimeconfig.dev.json
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/bin/Debug/net5.0/Slide13.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/bin/Debug/net5.0/ref/Slide13.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/bin/Debug/net5.0/Slide13.pdb
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/obj/Debug/net5.0/Slide13.csproj.AssemblyReference.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/obj/Debug/net5.0/Slide13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/obj/Debug/net5.0/Slide13.AssemblyInfoInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/obj/Debug/net5.0/Slide13.AssemblyInfo.cs
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/obj/Debug/net5.0/Slide13.csproj.CoreCompileInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/obj/Debug/net5.0/Slide13.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/obj/Debug/net5.0/ref/Slide13.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/obj/Debug/net5.0/Slide13.pdb
+/Users/thanh/github/CsharpKTLTHuflit/Week4DeQuy/Slide13/obj/Debug/net5.0/Slide13.genruntimeconfig.cache
