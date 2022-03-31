@@ -15,21 +15,26 @@ namespace BT2
 
         public static void xulixau(out int m, out int n, out int k, out int[,] a)
         {
-            var numberList = Console.ReadLine().Split(' ');
+            var numberList = Console.ReadLine().Split();
             m = int.Parse(numberList[0]);
             n = int.Parse(numberList[1]);
             k = int.Parse(numberList[2]);
             a = new int[m, n];
             for (int i = 0; i < a.GetLength(0); i++)
             {
-                var numberList2 = Console.ReadLine().Split(' ');
+                var numberList2 = Console.ReadLine().Split();
                 for (int j = 0; j < a.GetLength(1); j++)
                 {
                     a[i, j] = int.Parse(numberList2[j]);
                 }
             }
         }
-
+/*
+ 3 4 1
+ 2 3 4 5
+ 4 5 6 7
+ 6 7 8 9
+ */
         public static void incotthuk(int k, int m, int[,] a)
         {
             for (int i = 0; i < a.GetLength(0); i++)
