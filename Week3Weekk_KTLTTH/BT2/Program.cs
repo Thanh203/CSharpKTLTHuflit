@@ -6,9 +6,11 @@ namespace BT2
     {
         static void Main(string[] args)
         {
-            var numberList = Console.ReadLine().Split();
+            /*var numberList = Console.ReadLine().Split();
             int a = int.Parse(numberList[0]);
-            int n = int.Parse(numberList[1]);
+            int n = int.Parse(numberList[1]);*/
+            int a = 2;
+            int n = 6;
             Console.WriteLine(lt(a, n));
 
             Console.ReadKey();
