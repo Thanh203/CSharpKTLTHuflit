@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTKT20192020", "BTKT20192020\BTKT20192020.csproj", "{BD5BD212-4532-4A49-BA76-8506CFD50912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1", "BT1\BT1.csproj", "{57C2A848-F606-479E-A421-B672F0A78DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2BTT", "BT2BTT\BT2BTT.csproj", "{0D07AD90-29E4-4307-97FC-A706234D0539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD5BD212-4532-4A49-BA76-8506CFD50912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5BD212-4532-4A49-BA76-8506CFD50912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5BD212-4532-4A49-BA76-8506CFD50912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5BD212-4532-4A49-BA76-8506CFD50912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C2A848-F606-479E-A421-B672F0A78DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C2A848-F606-479E-A421-B672F0A78DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C2A848-F606-479E-A421-B672F0A78DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C2A848-F606-479E-A421-B672F0A78DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D07AD90-29E4-4307-97FC-A706234D0539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D07AD90-29E4-4307-97FC-A706234D0539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D07AD90-29E4-4307-97FC-A706234D0539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D07AD90-29E4-4307-97FC-A706234D0539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/bin/Debug/net5.0/Week5ChiaDeTri.deps.json
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/bin/Debug/net5.0/Week5ChiaDeTri.runtimeconfig.json
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/bin/Debug/net5.0/Week5ChiaDeTri.runtimeconfig.dev.json
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/bin/Debug/net5.0/Week5ChiaDeTri.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/bin/Debug/net5.0/ref/Week5ChiaDeTri.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/bin/Debug/net5.0/Week5ChiaDeTri.pdb
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/obj/Debug/net5.0/Week5ChiaDeTri.csproj.AssemblyReference.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/obj/Debug/net5.0/Week5ChiaDeTri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/obj/Debug/net5.0/Week5ChiaDeTri.AssemblyInfoInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/obj/Debug/net5.0/Week5ChiaDeTri.AssemblyInfo.cs
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/obj/Debug/net5.0/Week5ChiaDeTri.csproj.CoreCompileInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/obj/Debug/net5.0/Week5ChiaDeTri.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/obj/Debug/net5.0/ref/Week5ChiaDeTri.dll
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/obj/Debug/net5.0/Week5ChiaDeTri.pdb
+/Users/thanh/github/CsharpKTLTHuflit/Week5ChiaDeTri/Week5ChiaDeTri/obj/Debug/net5.0/Week5ChiaDeTri.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BTKT20192020/1.0.0": {
+        "runtime": {
+          "BTKT20192020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTKT20192020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/bin/Debug/net5.0/BTKT20192020.deps.json
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/bin/Debug/net5.0/BTKT20192020.runtimeconfig.json
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/bin/Debug/net5.0/BTKT20192020.runtimeconfig.dev.json
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/bin/Debug/net5.0/BTKT20192020.dll
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/bin/Debug/net5.0/ref/BTKT20192020.dll
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/bin/Debug/net5.0/BTKT20192020.pdb
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/obj/Debug/net5.0/BTKT20192020.csproj.AssemblyReference.cache
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/obj/Debug/net5.0/BTKT20192020.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/obj/Debug/net5.0/BTKT20192020.AssemblyInfoInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/obj/Debug/net5.0/BTKT20192020.AssemblyInfo.cs
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/obj/Debug/net5.0/BTKT20192020.csproj.CoreCompileInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/obj/Debug/net5.0/BTKT20192020.dll
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/obj/Debug/net5.0/ref/BTKT20192020.dll
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/obj/Debug/net5.0/BTKT20192020.pdb
+/Users/thanh/github/CsharpKTLTHuflit/BTKT20192020/BTKT20192020/obj/Debug/net5.0/BTKT20192020.genruntimeconfig.cache
