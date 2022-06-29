@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeQuy", "DeQuy\DeQuy.csproj", "{D771F0DD-3992-4D20-A297-E5978DBEA518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1", "BT1\BT1.csproj", "{E0AC60AD-B882-404D-8FAE-1F034C7E79CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D771F0DD-3992-4D20-A297-E5978DBEA518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D771F0DD-3992-4D20-A297-E5978DBEA518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D771F0DD-3992-4D20-A297-E5978DBEA518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D771F0DD-3992-4D20-A297-E5978DBEA518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0AC60AD-B882-404D-8FAE-1F034C7E79CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AC60AD-B882-404D-8FAE-1F034C7E79CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AC60AD-B882-404D-8FAE-1F034C7E79CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AC60AD-B882-404D-8FAE-1F034C7E79CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
