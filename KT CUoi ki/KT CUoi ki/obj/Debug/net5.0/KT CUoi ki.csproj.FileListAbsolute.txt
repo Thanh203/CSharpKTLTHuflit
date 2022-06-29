@@ -1,0 +1,15 @@
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/bin/Debug/net5.0/KT CUoi ki.deps.json
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/bin/Debug/net5.0/KT CUoi ki.runtimeconfig.json
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/bin/Debug/net5.0/KT CUoi ki.runtimeconfig.dev.json
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/bin/Debug/net5.0/KT CUoi ki.dll
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/bin/Debug/net5.0/ref/KT CUoi ki.dll
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/bin/Debug/net5.0/KT CUoi ki.pdb
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/obj/Debug/net5.0/KT CUoi ki.csproj.AssemblyReference.cache
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/obj/Debug/net5.0/KT CUoi ki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/obj/Debug/net5.0/KT CUoi ki.AssemblyInfoInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/obj/Debug/net5.0/KT CUoi ki.AssemblyInfo.cs
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/obj/Debug/net5.0/KT CUoi ki.csproj.CoreCompileInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/obj/Debug/net5.0/KT CUoi ki.dll
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/obj/Debug/net5.0/ref/KT CUoi ki.dll
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/obj/Debug/net5.0/KT CUoi ki.pdb
+/Users/thanh/github/CsharpKTLTHuflit/KT CUoi ki/KT CUoi ki/obj/Debug/net5.0/KT CUoi ki.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/bin/Debug/net5.0/OnTapjDeQuy.deps.json
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/bin/Debug/net5.0/OnTapjDeQuy.runtimeconfig.json
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/bin/Debug/net5.0/OnTapjDeQuy.runtimeconfig.dev.json
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/bin/Debug/net5.0/OnTapjDeQuy.dll
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/bin/Debug/net5.0/ref/OnTapjDeQuy.dll
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/bin/Debug/net5.0/OnTapjDeQuy.pdb
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/obj/Debug/net5.0/OnTapjDeQuy.csproj.AssemblyReference.cache
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/obj/Debug/net5.0/OnTapjDeQuy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/obj/Debug/net5.0/OnTapjDeQuy.AssemblyInfoInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/obj/Debug/net5.0/OnTapjDeQuy.AssemblyInfo.cs
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/obj/Debug/net5.0/OnTapjDeQuy.csproj.CoreCompileInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/obj/Debug/net5.0/OnTapjDeQuy.dll
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/obj/Debug/net5.0/ref/OnTapjDeQuy.dll
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/obj/Debug/net5.0/OnTapjDeQuy.pdb
+/Users/thanh/github/CsharpKTLTHuflit/OnTapjDeQuy/OnTapjDeQuy/obj/Debug/net5.0/OnTapjDeQuy.genruntimeconfig.cache
