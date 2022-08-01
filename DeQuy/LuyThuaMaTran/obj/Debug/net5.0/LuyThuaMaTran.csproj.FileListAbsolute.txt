@@ -1,0 +1,15 @@
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/bin/Debug/net5.0/LuyThuaMaTran.deps.json
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/bin/Debug/net5.0/LuyThuaMaTran.runtimeconfig.json
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/bin/Debug/net5.0/LuyThuaMaTran.runtimeconfig.dev.json
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/bin/Debug/net5.0/LuyThuaMaTran.dll
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/bin/Debug/net5.0/ref/LuyThuaMaTran.dll
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/bin/Debug/net5.0/LuyThuaMaTran.pdb
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/obj/Debug/net5.0/LuyThuaMaTran.csproj.AssemblyReference.cache
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/obj/Debug/net5.0/LuyThuaMaTran.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/obj/Debug/net5.0/LuyThuaMaTran.AssemblyInfoInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/obj/Debug/net5.0/LuyThuaMaTran.AssemblyInfo.cs
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/obj/Debug/net5.0/LuyThuaMaTran.csproj.CoreCompileInputs.cache
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/obj/Debug/net5.0/LuyThuaMaTran.dll
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/obj/Debug/net5.0/ref/LuyThuaMaTran.dll
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/obj/Debug/net5.0/LuyThuaMaTran.pdb
+/Users/thanh/github/CsharpKTLTHuflit/DeQuy/LuyThuaMaTran/obj/Debug/net5.0/LuyThuaMaTran.genruntimeconfig.cache

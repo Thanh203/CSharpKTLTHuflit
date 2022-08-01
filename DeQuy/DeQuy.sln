@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeQuy", "DeQuy\DeQuy.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1", "BT1\BT1.csproj", "{E0AC60AD-B882-404D-8FAE-1F034C7E79CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2", "BT2\BT2.csproj", "{FC293620-ECAF-4824-919C-711A647DD51A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuyThuaMaTran", "LuyThuaMaTran\LuyThuaMaTran.csproj", "{8A61515C-058D-4A2C-B4E0-2032C5B3DA07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{E0AC60AD-B882-404D-8FAE-1F034C7E79CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0AC60AD-B882-404D-8FAE-1F034C7E79CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0AC60AD-B882-404D-8FAE-1F034C7E79CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC293620-ECAF-4824-919C-711A647DD51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC293620-ECAF-4824-919C-711A647DD51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC293620-ECAF-4824-919C-711A647DD51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC293620-ECAF-4824-919C-711A647DD51A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A61515C-058D-4A2C-B4E0-2032C5B3DA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A61515C-058D-4A2C-B4E0-2032C5B3DA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A61515C-058D-4A2C-B4E0-2032C5B3DA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A61515C-058D-4A2C-B4E0-2032C5B3DA07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

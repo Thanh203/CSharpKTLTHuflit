@@ -5,8 +5,8 @@ namespace BT1
 {
     public class ThueBao
     {
-        private string hoTen;
-        private string soDT;
+        string hoTen;
+        string soDT;
 
         public ThueBao(){}
 

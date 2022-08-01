@@ -8,9 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba3c2099-c961-4356-b4f2-29e8cfdd62a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../CSharpKTLTHuflit" beforeDir="false" afterPath="$PROJECT_DIR$/../CSharpKTLTHuflit" afterDir="false" />
-    </list>
+    <list default="true" id="ba3c2099-c961-4356-b4f2-29e8cfdd62a6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +81,7 @@
       <updated>1653364756435</updated>
       <workItem from="1653364765209" duration="6970000" />
       <workItem from="1656490045502" duration="21000" />
+      <workItem from="1657543406960" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1656490055555</created>
@@ -110,6 +109,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
